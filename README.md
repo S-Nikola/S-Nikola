@@ -4,17 +4,31 @@ Eager to grow as a web developer and create interactive, modern websites that pr
 
 Have a look around my [portfolio.](https://s-nikola.github.io/CF-Portfolio-website/)
 
-<!--
-**S-Nikola/S-Nikola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Toolbox
 
-Here are some ideas to get you started:
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/cucumber/cucumber-plain.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="30" height="30" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="30" height="30" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📬 Connect with me
+
+[Email me](mailto:stef-nikola-dev@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/nikola-stefanovski-25727a26b/)
+
