@@ -14,5 +14,5 @@ Have a look around my [portfolio.](https://s-nikola.github.io/CF-Portfolio-websi
 
 [Email me](mailto:stef-nikola-dev@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/nikola-stefanovski-25727a26b/)
+[LinkedIn](https://www.linkedin.com/in/nikola-stefanovski/)
 
